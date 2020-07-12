@@ -105,8 +105,59 @@ Earthquake and Engineering Seismology</a></li>
 
 
 
+<li><a target="_blank" href="https://github.com/manjunath5496/Seismology-Books/blob/master/sei(49).pdf" style="text-decoration:none;">A Crack in the Edge of the World: America and the Great California Earthquake of 1906</a></li> 
+
+<li><a target="_blank" href="https://github.com/manjunath5496/Seismology-Books/blob/master/sei(50).pdf" style="text-decoration:none;">A Disastrous History Of The World: Chronicles Of War, Earthquake, Plague And Flood</a></li>
+
+<li><a target="_blank" href="https://github.com/manjunath5496/Seismology-Books/blob/master/sei(51).pdf" style="text-decoration:none;">Apocalypse : earthquakes, archaeology, and the wrath of God</a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/Seismology-Books/blob/master/sei(52).pdf" style="text-decoration:none;">Catastrophes! Earthquakes, Tsunamis,
+Tornadoes, and Other Earth-Shattering Disasters</a></li> 
+ <li><a target="_blank" href="https://github.com/manjunath5496/Seismology-Books/blob/master/sei(53).pdf" style="text-decoration:none;">Dynamics of Structures: Theory and applications to earthquake engineering</a></li> 
+ 
+
+   <li><a target="_blank" href="https://github.com/manjunath5496/Seismology-Books/blob/master/sei(54).pdf" style="text-decoration:none;">Earthquake and Volcano Deformation</a></li>
 
 
+
+<li><a target="_blank" href="https://github.com/manjunath5496/Seismology-Books/blob/master/sei(55).pdf" style="text-decoration:none;">Earthquake Engineering for Nuclear Facilities </a></li> 
+
+<li><a target="_blank" href="https://github.com/manjunath5496/Seismology-Books/blob/master/sei(56).pdf" style="text-decoration:none;">Earthquake Engineering: Theory and Implementation</a></li>
+
+<li><a target="_blank" href="https://github.com/manjunath5496/Seismology-Books/blob/master/sei(57).pdf" style="text-decoration:none;">Earthquake Geotechnical Engineering Design</a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/Seismology-Books/blob/master/sei(58).pdf" style="text-decoration:none;">Earthquake Resistant Design of Structures</a></li> 
+ <li><a target="_blank" href="https://github.com/manjunath5496/Seismology-Books/blob/master/sei(59).pdf" style="text-decoration:none;">Earthquakes: Plate Tectonics and Earthquake Hazards</a></li> 
+ 
+
+   <li><a target="_blank" href="https://github.com/manjunath5496/Seismology-Books/blob/master/sei(60).pdf" style="text-decoration:none;">Encyclopedia of Earthquakes and Volcanoes</a></li>
+
+<li><a target="_blank" href="https://github.com/manjunath5496/Seismology-Books/blob/master/sei(61).pdf" style="text-decoration:none;">Fundamentals of Earthquake Engineering</a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/Seismology-Books/blob/master/sei(62).pdf" style="text-decoration:none;">How the Earth Works: 60 Fun Activities for Exploring Volcanoes, Fossils, Earthquakes, and More</a></li> 
+ <li><a target="_blank" href="https://github.com/manjunath5496/Seismology-Books/blob/master/sei(63).pdf" style="text-decoration:none;">Living Under the Threat of Earthquakes: Short and Long-term Management of Earthquake Risks and Damage Prevention in Nepal</a></li> 
+ 
+
+   <li><a target="_blank" href="https://github.com/manjunath5496/Seismology-Books/blob/master/sei(64).pdf" style="text-decoration:none;">Plate Tectonics, Volcanoes, and Earthquakes</a></li>
+
+ <li><a target="_blank" href="https://github.com/manjunath5496/Seismology-Books/blob/master/sei(65).pdf" style="text-decoration:none;">Predicting the Unpredictable: The Tumultuous Science of Earthquake Prediction</a></li>
+
+
+   <li><a target="_blank" href="https://github.com/manjunath5496/Seismology-Books/blob/master/sei(66).pdf" style="text-decoration:none;">Preventing
+Earthquake Disasters</a></li>
+
+<li><a target="_blank" href="https://github.com/manjunath5496/Seismology-Books/blob/master/sei(67).pdf" style="text-decoration:none;"> Slope Earthquake Stability</a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/Seismology-Books/blob/master/sei(68).pdf" style="text-decoration:none;">Soil Dynamics and Earthquake Geotechnical Engineering</a></li> 
+ <li><a target="_blank" href="https://github.com/manjunath5496/Seismology-Books/blob/master/sei(69).pdf" style="text-decoration:none;">Soil Liquefaction During Earthquakes</a></li> 
+ 
+
+   <li><a target="_blank" href="https://github.com/manjunath5496/Seismology-Books/blob/master/sei(70).pdf" style="text-decoration:none;">The Parting of the Sea: How Volcanoes, Earthquakes, and Plagues Shaped the Exodus Story</a></li>
+
+ <li><a target="_blank" href="https://github.com/manjunath5496/Seismology-Books/blob/master/sei(71).pdf" style="text-decoration:none;">The Physics of Rock Failure and Earthquakes</a></li>
+
+
+
+ <li><a target="_blank" href="https://github.com/manjunath5496/Seismology-Books/blob/master/sei(72).pdf" style="text-decoration:none;">The San Francisco Earthquake and Fire of 1906 (Great Historic Disasters)</a></li>
+
+ <li><a target="_blank" href="https://github.com/manjunath5496/Seismology-Books/blob/master/sei(73).pdf" style="text-decoration:none;">Earthquake Thermodynamics and Phase
+Transformations in the Earth's Interior</a></li>
 
 
 
