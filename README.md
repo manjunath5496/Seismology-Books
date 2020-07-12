@@ -42,56 +42,66 @@ Theory and Application</a></li>
 
 <li><a target="_blank" href="https://github.com/manjunath5496/Seismology-Books/blob/master/sei(20).pdf" style="text-decoration:none;">Mathematical Aspects of Seismology</a></li>
 
-<li><a target="_blank" href="https://github.com/manjunath5496/Seismology-Books/blob/master/sei(21).pdf" style="text-decoration:none;">Advanced Automotive Fault Diagnosis</a></li>
-<li><a target="_blank" href="https://github.com/manjunath5496/Seismology-Books/blob/master/sei(22).pdf" style="text-decoration:none;">Automotive Computer
-Controlled Systems</a></li> 
- <li><a target="_blank" href="https://github.com/manjunath5496/Seismology-Books/blob/master/sei(23).pdf" style="text-decoration:none;">Modeling, reaction schemes and kinetic parameter estimation in automotive catalytic converters and diesel particulate filters</a></li> 
+<li><a target="_blank" href="https://github.com/manjunath5496/Seismology-Books/blob/master/sei(21).pdf" style="text-decoration:none;">Seismological Structure of Slabs</a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/Seismology-Books/blob/master/sei(22).pdf" style="text-decoration:none;">Methods in Computational Physics</a></li> 
+ <li><a target="_blank" href="https://github.com/manjunath5496/Seismology-Books/blob/master/sei(23).pdf" style="text-decoration:none;">Principles of Seismology</a></li> 
  
 
-   <li><a target="_blank" href="https://github.com/manjunath5496/Seismology-Books/blob/master/sei(24).pdf" style="text-decoration:none;">Automotive Control Systems
-For Engine, Driveline, and Vehicle</a></li>
+   <li><a target="_blank" href="https://github.com/manjunath5496/Seismology-Books/blob/master/sei(24).pdf" style="text-decoration:none;">Introduction to Seismology</a></li>
 
 
-<li><a target="_blank" href="https://github.com/manjunath5496/Seismology-Books/blob/master/sei(25).pdf" style="text-decoration:none;">Clutches
-and Brakes: Design and Selection </a></li> 
+<li><a target="_blank" href="https://github.com/manjunath5496/Seismology-Books/blob/master/sei(25).pdf" style="text-decoration:none;">Routine Data Processing in Earthquake Seismology </a></li> 
 
-<li><a target="_blank" href="https://github.com/manjunath5496/Seismology-Books/blob/master/sei(26).pdf" style="text-decoration:none;">Charging the Internal Combustion Engine</a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/Seismology-Books/blob/master/sei(26).pdf" style="text-decoration:none;">Giant star seismology</a></li>
 
-<li><a target="_blank" href="https://github.com/manjunath5496/Seismology-Books/blob/master/sei(27).pdf" style="text-decoration:none;">The role of the chemist in automotive design</a></li>
-<li><a target="_blank" href="https://github.com/manjunath5496/Seismology-Books/blob/master/sei(28).pdf" style="text-decoration:none;">Reduced Emissions
-and Fuel Consumption in Automobile Engines</a></li> 
- <li><a target="_blank" href="https://github.com/manjunath5496/Seismology-Books/blob/master/sei(29).pdf" style="text-decoration:none;">Advanced Microsystems
-for Automotive Applications 2010: Smart Systems for Green Cars and Safe Mobility</a></li> 
+<li><a target="_blank" href="https://github.com/manjunath5496/Seismology-Books/blob/master/sei(27).pdf" style="text-decoration:none;">Numerical Methods of Exploration Seismology
+with algorithms in MATLAB</a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/Seismology-Books/blob/master/sei(28).pdf" style="text-decoration:none;">Seismic Analysis of Structures</a></li> 
+ <li><a target="_blank" href="https://github.com/manjunath5496/Seismology-Books/blob/master/sei(29).pdf" style="text-decoration:none;">The Finite-Difference Modelling of Earthquake Motions: Waves and Ruptures</a></li> 
  
 
-   <li><a target="_blank" href="https://github.com/manjunath5496/Seismology-Books/blob/master/sei(30).pdf" style="text-decoration:none;">Automotive Systems Engineering</a></li>
+   <li><a target="_blank" href="https://github.com/manjunath5496/Seismology-Books/blob/master/sei(30).pdf" style="text-decoration:none;">Elastic Wave Propagation and Generation in Seismology</a></li>
 
 
 
-<li><a target="_blank" href="https://github.com/manjunath5496/Seismology-Books/blob/master/sei(31).pdf" style="text-decoration:none;">Automotive Systems Engineering II </a></li> 
+<li><a target="_blank" href="https://github.com/manjunath5496/Seismology-Books/blob/master/sei(31).pdf" style="text-decoration:none;">Shocks and Rocks: Seismology in the Plate Tectonics Revolution </a></li> 
 
-<li><a target="_blank" href="https://github.com/manjunath5496/Seismology-Books/blob/master/sei(32).pdf" style="text-decoration:none;">How Things Are Made: From Automobiles to Zippers</a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/Seismology-Books/blob/master/sei(32).pdf" style="text-decoration:none;">Aspects of Observational Seismology</a></li>
 
-<li><a target="_blank" href="https://github.com/manjunath5496/Seismology-Books/blob/master/sei(33).pdf" style="text-decoration:none;">Reliability in Automotive and Mechanical Engineering</a></li>
-<li><a target="_blank" href="https://github.com/manjunath5496/Seismology-Books/blob/master/sei(34).pdf" style="text-decoration:none;">Who Invented the Automobile?</a></li> 
- <li><a target="_blank" href="https://github.com/manjunath5496/Seismology-Books/blob/master/sei(35).pdf" style="text-decoration:none;">A Field Guide to Automotive Technology</a></li> 
+<li><a target="_blank" href="https://github.com/manjunath5496/Seismology-Books/blob/master/sei(33).pdf" style="text-decoration:none;">Seismology for rockburst prediction</a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/Seismology-Books/blob/master/sei(34).pdf" style="text-decoration:none;">Greek Seismology</a></li> 
+ <li><a target="_blank" href="https://github.com/manjunath5496/Seismology-Books/blob/master/sei(35).pdf" style="text-decoration:none;">Facilitating New Discoveries in Seismology and Exploring the Earth: The Next Decade</a></li> 
  
 
-   <li><a target="_blank" href="https://github.com/manjunath5496/Seismology-Books/blob/master/sei(36).pdf" style="text-decoration:none;">Automotive Engine Valve Recession</a></li>
+   <li><a target="_blank" href="https://github.com/manjunath5496/Seismology-Books/blob/master/sei(36).pdf" style="text-decoration:none;">Basic Theory of Exploration Seismology</a></li>
 
-<li><a target="_blank" href="https://github.com/manjunath5496/Seismology-Books/blob/master/sei(37).pdf" style="text-decoration:none;">Auto Mechanics: Technology and Expertise in Twentieth-Century America</a></li>
-<li><a target="_blank" href="https://github.com/manjunath5496/Seismology-Books/blob/master/sei(38).pdf" style="text-decoration:none;">Cooperative Automation in Automobiles</a></li> 
- <li><a target="_blank" href="https://github.com/manjunath5496/Seismology-Books/blob/master/sei(39).pdf" style="text-decoration:none;">The People's Car: A Global History of the Volkswagen Beetle</a></li> 
+<li><a target="_blank" href="https://github.com/manjunath5496/Seismology-Books/blob/master/sei(37).pdf" style="text-decoration:none;">Digital Seismology and Fine Modeling
+of the lithosphere</a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/Seismology-Books/blob/master/sei(38).pdf" style="text-decoration:none;">Perspectives on European Earthquake Engineering and Seismology</a></li> 
+ <li><a target="_blank" href="https://github.com/manjunath5496/Seismology-Books/blob/master/sei(39).pdf" style="text-decoration:none;">Elements of 3D Seismology</a></li> 
  
 
-   <li><a target="_blank" href="https://github.com/manjunath5496/Seismology-Books/blob/master/sei(40).pdf" style="text-decoration:none;">Rethinking the Development of the Automobile Industry in China</a></li>
+   <li><a target="_blank" href="https://github.com/manjunath5496/Seismology-Books/blob/master/sei(40).pdf" style="text-decoration:none;">Modern global seismology</a></li>
 
- <li><a target="_blank" href="https://github.com/manjunath5496/Seismology-Books/blob/master/sei(41).pdf" style="text-decoration:none;">The Gasoline 4-Stroke Engine
-for Automobiles</a></li>
-
-
+ <li><a target="_blank" href="https://github.com/manjunath5496/Seismology-Books/blob/master/sei(41).pdf" style="text-decoration:none;">Earthquake Engineering
+and Structural Dynamics in Memory of Ragnar Sigbjörnsson</a></li>
 
 
+   <li><a target="_blank" href="https://github.com/manjunath5496/Seismology-Books/blob/master/sei(42).pdf" style="text-decoration:none;">International Handbook of
+Earthquake and Engineering Seismology</a></li>
+
+<li><a target="_blank" href="https://github.com/manjunath5496/Seismology-Books/blob/master/sei(43).pdf" style="text-decoration:none;"> List of Seismological Stations of the World</a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/Seismology-Books/blob/master/sei(44).pdf" style="text-decoration:none;">Modern Earthquake Engineering</a></li> 
+ <li><a target="_blank" href="https://github.com/manjunath5496/Seismology-Books/blob/master/sei(45).pdf" style="text-decoration:none;">Quantitative Seismology</a></li> 
+ 
+
+   <li><a target="_blank" href="https://github.com/manjunath5496/Seismology-Books/blob/master/sei(46).pdf" style="text-decoration:none;">Introduction to Volcanic Seismology</a></li>
+
+ <li><a target="_blank" href="https://github.com/manjunath5496/Seismology-Books/blob/master/sei(47).pdf" style="text-decoration:none;">Seismology and the Structure of the Earth</a></li>
+
+
+
+ <li><a target="_blank" href="https://github.com/manjunath5496/Seismology-Books/blob/master/sei(48).pdf" style="text-decoration:none;">The Illustrated History of Natural Disasters</a></li>
 
 
 
