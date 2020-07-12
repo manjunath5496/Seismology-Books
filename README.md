@@ -1,3 +1,132 @@
+<table class="vertical-navbox nowraplinks">
+<tbody>
+<tr>
+<th class="navbox-title"><a title="Earthquake" href="https://en.wikipedia.org/wiki/Earthquake">Earthquakes</a></th>
+</tr>
+<tr>
+<td>
+<div id="NavFrame1" class="NavFrame collapsed">
+<div class="NavHead"><a title="Types of earthquake" href="https://en.wikipedia.org/wiki/Types_of_earthquake">Types</a></div>
+<div class="NavContent hlist">
+<ul>
+<li><a title="Foreshock" href="https://en.wikipedia.org/wiki/Foreshock">Foreshock</a></li>
+<li><a title="Aftershock" href="https://en.wikipedia.org/wiki/Aftershock">Aftershock</a></li>
+<li><a title="Blind thrust earthquake" href="https://en.wikipedia.org/wiki/Blind_thrust_earthquake">Blind thrust</a></li>
+<li><a title="Doublet earthquake" href="https://en.wikipedia.org/wiki/Doublet_earthquake">Doublet</a></li>
+<li><a title="Interplate earthquake" href="https://en.wikipedia.org/wiki/Interplate_earthquake">Interplate</a></li>
+<li><a title="Intraplate earthquake" href="https://en.wikipedia.org/wiki/Intraplate_earthquake">Intraplate</a></li>
+<li><a title="Megathrust earthquake" href="https://en.wikipedia.org/wiki/Megathrust_earthquake">Megathrust</a></li>
+<li><a title="Remotely triggered earthquakes" href="https://en.wikipedia.org/wiki/Remotely_triggered_earthquakes">Remotely triggered</a></li>
+<li><a title="Slow earthquake" href="https://en.wikipedia.org/wiki/Slow_earthquake">Slow</a></li>
+<li><a title="Submarine earthquake" href="https://en.wikipedia.org/wiki/Submarine_earthquake">Submarine</a></li>
+<li><a title="Supershear earthquake" href="https://en.wikipedia.org/wiki/Supershear_earthquake">Supershear</a></li>
+<li><a title="Tsunami earthquake" href="https://en.wikipedia.org/wiki/Tsunami_earthquake">Tsunami</a></li>
+<li><a title="Earthquake swarm" href="https://en.wikipedia.org/wiki/Earthquake_swarm">Earthquake swarm</a></li>
+</ul>
+</div>
+</div>
+</td>
+</tr>
+<tr>
+<td>
+<div id="NavFrame2" class="NavFrame collapsed">
+<div class="NavHead">Causes</div>
+<div class="NavContent hlist">
+<ul>
+<li><a title="Fault (geology)" href="https://en.wikipedia.org/wiki/Fault_(geology)">Fault movement</a></li>
+<li><a title="Volcano tectonic earthquake" href="https://en.wikipedia.org/wiki/Volcano_tectonic_earthquake">Volcanism</a></li>
+<li><a title="Induced seismicity" href="https://en.wikipedia.org/wiki/Induced_seismicity">Induced seismicity</a></li>
+</ul>
+</div>
+</div>
+</td>
+</tr>
+<tr>
+<td>
+<div id="NavFrame3" class="NavFrame collapsed">
+<div class="NavHead">Characteristics</div>
+<div class="NavContent hlist">
+<ul>
+<li><a title="Epicenter" href="https://en.wikipedia.org/wiki/Epicenter">Epicenter</a></li>
+<li><a title="Hypocenter" href="https://en.wikipedia.org/wiki/Hypocenter">Hypocenter</a></li>
+<li><a title="Shadow zone" href="https://en.wikipedia.org/wiki/Shadow_zone">Shadow zone</a></li>
+<li><a title="Seismic wave" href="https://en.wikipedia.org/wiki/Seismic_wave">Seismic waves</a></li>
+<li><a title="P-wave" href="https://en.wikipedia.org/wiki/P-wave">P-wave</a></li>
+<li><a title="S-wave" href="https://en.wikipedia.org/wiki/S-wave">S-wave</a></li>
+</ul>
+</div>
+</div>
+</td>
+</tr>
+<tr>
+<td>
+<div id="NavFrame4" class="NavFrame collapsed">
+<div class="NavHead">Measurement</div>
+<div class="NavContent hlist">
+<ul>
+<li><a title="Seismometer" href="https://en.wikipedia.org/wiki/Seismometer">Seismometer</a></li>
+<li><a title="Seismic magnitude scales" href="https://en.wikipedia.org/wiki/Seismic_magnitude_scales">Seismic magnitude scales</a></li>
+<li><a title="Seismic intensity scales" href="https://en.wikipedia.org/wiki/Seismic_intensity_scales">Seismic intensity scales</a></li>
+</ul>
+</div>
+</div>
+</td>
+</tr>
+<tr>
+<td>
+<div id="NavFrame5" class="NavFrame collapsed">
+<div class="NavHead"><a title="Earthquake prediction" href="https://en.wikipedia.org/wiki/Earthquake_prediction">Prediction</a></div>
+<div class="NavContent hlist">
+<ul>
+<li>
+<div><a title="Coordinating Committee for Earthquake Prediction" href="https://en.wikipedia.org/wiki/Coordinating_Committee_for_Earthquake_Prediction">Coordinating Committee for<br />Earthquake Prediction</a></div>
+</li>
+<li><a title="Earthquake forecasting" href="https://en.wikipedia.org/wiki/Earthquake_forecasting">Forecasting</a></li>
+</ul>
+</div>
+</div>
+</td>
+</tr>
+<tr>
+<td>
+<div id="NavFrame6" class="NavFrame collapsed">
+<div class="NavHead">Other topics</div>
+<div class="NavContent hlist">
+<ul>
+<li><a title="Shear wave splitting" href="https://en.wikipedia.org/wiki/Shear_wave_splitting">Shear wave splitting</a></li>
+<li><a title="Adams&ndash;Williamson equation" href="https://en.wikipedia.org/wiki/Adams%E2%80%93Williamson_equation">Adams&ndash;Williamson equation</a></li>
+<li><a title="Flinn&ndash;Engdahl regions" href="https://en.wikipedia.org/wiki/Flinn%E2%80%93Engdahl_regions">Flinn&ndash;Engdahl regions</a></li>
+<li><a title="Earthquake engineering" href="https://en.wikipedia.org/wiki/Earthquake_engineering">Earthquake engineering</a></li>
+<li><a title="Seismite" href="https://en.wikipedia.org/wiki/Seismite">Seismite</a></li>
+<li><a href="https://en.wikipedia.org/wiki/Seismology">Seismology</a></li>
+</ul>
+</div>
+</div>
+</td>
+</tr>
+<tr>
+<td class="hlist">
+<ul>
+<li><a title="Portal:Earth sciences" href="https://en.wikipedia.org/wiki/Portal:Earth_sciences">Earth Sciences Portal</a></li>
+</ul>
+<ul>
+<li><a title="Category:Earthquakes" href="https://en.wikipedia.org/wiki/Category:Earthquakes">Category</a></li>
+<li><a title="Index of geology articles" href="https://en.wikipedia.org/wiki/Index_of_geology_articles">Related topics</a></li>
+</ul>
+</td>
+</tr>
+</tbody>
+</table>
+</br>
+
+
+<h2> Books </h2>
+
+
+</br>
+
+
+
 <ul>
 
                              
